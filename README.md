@@ -6,7 +6,13 @@
   python -m venv venv
 ```
 
+- 가상환경 접속
+```sh
+  source venv/bin/activate
+```
+
 - requirement 설치
 ```sh
-  pip install requirement.txt
+  pip install -r requirement.txt
 ```
+
